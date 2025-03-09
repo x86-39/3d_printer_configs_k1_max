@@ -14,9 +14,9 @@
       gap_fill_speed: 80
       ironing_speed: 60
 
-      overhang_speed_0: 10
-      overhang_speed_1: 20
-      overhang_speed_2: 30
+      overhang_speed_0: 8
+      overhang_speed_1: 15
+      overhang_speed_2: 25
       overhang_speed_3: 40
 
       travel_speed: 75
@@ -49,10 +49,10 @@
       gap_fill_speed: 150
       ironing_speed: 60
 
-      overhang_speed_0: 10
-      overhang_speed_1: 20
-      overhang_speed_2: 30
-      overhang_speed_3: 50
+      overhang_speed_0: 8
+      overhang_speed_1: 15
+      overhang_speed_2: 25
+      overhang_speed_3: 40
 
       travel_speed: 250
       travel_speed_z: 40
@@ -84,10 +84,10 @@
       gap_fill_speed: 400
       ironing_speed: 75
 
-      overhang_speed_0: 15
-      overhang_speed_1: 35
-      overhang_speed_2: 60
-      overhang_speed_3: 75
+      overhang_speed_0: 10
+      overhang_speed_1: 20
+      overhang_speed_2: 35
+      overhang_speed_3: 50
 
       travel_speed: 450
       travel_speed_z: 40
@@ -119,10 +119,10 @@
       gap_fill_speed: 600
       ironing_speed: 90
 
-      overhang_speed_0: 15
-      overhang_speed_1: 60
-      overhang_speed_2: 80
-      overhang_speed_3: 95
+      overhang_speed_0: 12
+      overhang_speed_1: 35
+      overhang_speed_2: 65
+      overhang_speed_3: 80
 
       travel_speed: 600
       travel_speed_z: 50
@@ -154,7 +154,7 @@
       gap_fill_speed: 800
       ironing_speed: 200
 
-      overhang_speed_0: 25
+      overhang_speed_0: 35
       overhang_speed_1: 75
       overhang_speed_2: 85
       overhang_speed_3: 100
